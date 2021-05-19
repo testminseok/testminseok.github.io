@@ -2,6 +2,7 @@
 layout : post
 title : "@RequestBody 는 POST 만 가능할까?"
 date : 2021-05-15 17:12
+subtitle : ""
 categories : spring
 ---
 
@@ -130,7 +131,7 @@ $("#send").on("click", function() {
 이번엔 <span style="color:red;">415 ERROR</span>가 발생하네요.
 해당 *Content-Type*을 지원하지 않을 때 발생하는 에러입니다.
 
-![415ERROR_IMAGE](../assets/images/2021-05-15/Image2.png)
+![415ERROR_IMAGE](/assets/images/2021-05-15/Image2.png)
 
 이미지에서 보시면 <span style="color:red;">415 ERROR</span>가 발생한것과 *Response Header*에
 *Accept* 부분이 *application/json , application/\*+json* 인것을 알 수 있습니다.
