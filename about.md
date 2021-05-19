@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description : ""
+description : "It's Me"
 permalink: /about/
 ---
 
@@ -36,9 +36,8 @@ ___
  <!-- Personal Experience & Projects 대외적 활동 및 개인 프로젝트-->
  <!-- Presentation & Article 발표 및 외부에 썼던 글 자료-->
  <!-- Education 공부항목-->
- 
  ___
 
-### Edycation
+### Education
 
 - 한양사이버 대학교 컴퓨터공학과 2020.06 ~ ing
