@@ -58,7 +58,7 @@ public class MyController {
 
 ```
 
-![pdf결과창](../assets/images/2021-05-24/Image.png)
+![pdf결과창](/assets/images/2021-05-24/Image.png)
 
 해당 코드가 정상작동 하는것을 알 수 있습니다.
 
